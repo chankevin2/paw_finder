@@ -15,7 +15,15 @@
  *= require foundation_and_overrides
 
  */
-body{
-  font-family: 'Tangerine', serif;
-  font-size: 48px;
+body {
+  background-image: url(wallpaper2.jpg);
 }
+
+/* .petTypeContainer {
+  display: flex;
+  font-size: 100px;
+  flex-flow: row wrap;
+  text-align: center;
+  margin: auto;
+  width: 100%
+} */

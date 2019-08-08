@@ -1,0 +1,11 @@
+.productSlider {
+width: 100%;
+margin: 0 auto;
+
+.slick-slide {
+padding: 0px 75px;
+}
+
+.slick-next { right: 25px; }
+.slick-prev { left: 25px; }
+}
